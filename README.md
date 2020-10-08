@@ -11,12 +11,19 @@
 - ⚡ Fun fact: I love to develop something new attractive App and Website
 
 
-### Connect with me:
 
-[<img align="left" alt="amitsaini.pythonanywhere.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="amitsaini4556 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="amitsaini4556 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="amitsaini4556 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsaini4556" alt="amitsaini4556" /> </p>
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/amitsai74116783" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amitsai74116783" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit-saini-b38b08190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amit-saini-b38b08190" height="30" width="40" /></a>
+<a href="https://fb.com/amit.saini.2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amit.saini.2001" height="30" width="40" /></a>
+<a href="https://instagram.com/sa.am18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sa.am18" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amitsaini2701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amitsaini2701" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amitsaini2701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="amitsaini2701" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -50,3 +57,5 @@
 [twitter]: https://twitter.com/AmitSai74116783
 [instagram]: https://www.instagram.com/sa.am18/?hl=en
 [linkedin]: https://www.linkedin.com/in/amit-saini-b38b08190/
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsaini4556&show_icons=true" alt="amitsaini4556" /></p>
