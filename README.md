@@ -1,7 +1,7 @@
 ### Hi there, I'm Amit Saini [amitsaini4556][website] 👋
 
-![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Famitsaini.pythonanywhere.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/AmitSai74116783?color=1DA1F2&logo=Twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Famitsaini.pythonanywhere.com)](https://amitsaini.pythonanywhere.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AmitSai74116783?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/AmitSai74116783)
 
 ## I'm a Student, Developer !!
 
