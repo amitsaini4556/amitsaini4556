@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Famitsaini.pythonanywhere.com)](https://amitsaini.pythonanywhere.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmitSai74116783?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/AmitSai74116783)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsaini4556" alt="amitsaini4556" /> </p>
+
 ## I'm a Student, Developer !!
 
 - 🌱 I’m currently learning everything 🤣
@@ -10,9 +12,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop something new attractive App and Website
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsaini4556" alt="amitsaini4556" /> </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -24,8 +23,6 @@
 <a href="https://www.hackerrank.com/amitsaini2701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amitsaini2701" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amitsaini2701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="amitsaini2701" height="30" width="40" /></a>
 </p>
-
-<br />
 
 ### Languages and Tools:
 
@@ -57,5 +54,3 @@
 [twitter]: https://twitter.com/AmitSai74116783
 [instagram]: https://www.instagram.com/sa.am18/?hl=en
 [linkedin]: https://www.linkedin.com/in/amit-saini-b38b08190/
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsaini4556&show_icons=true" alt="amitsaini4556" /></p>
