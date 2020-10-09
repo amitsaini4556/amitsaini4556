@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U5TwsF6yGch1xzWvgXN3SBa-_VAbHiW5/view?usp=sharing)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitsaini4556" alt="amitsaini4556" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=amitsaini4556" alt="amitsaini4556" /></a> </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
