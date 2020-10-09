@@ -5,12 +5,16 @@
 
 
 ## I'm a Student, Developer !!
-
+- 🔭 I’m currently working on **DateYourEve Android Application**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop something new attractive App and Website
+- 📫 How to reach me **amitsaini2701@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U5TwsF6yGch1xzWvgXN3SBa-_VAbHiW5/view?usp=sharing)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitsaini4556" alt="amitsaini4556" /></a> </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
