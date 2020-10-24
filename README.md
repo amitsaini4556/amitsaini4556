@@ -49,11 +49,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp/issues/159) in [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp)
-2. 🗣 Commented on [#9](https://github.com/romain325/DataStructuresAndAlgorithms/issues/9) in [romain325/DataStructuresAndAlgorithms](https://github.com/romain325/DataStructuresAndAlgorithms)
-3. ❌ Reopened PR [#14](https://github.com/farQtech/Data-Structures/pull/14) in [farQtech/Data-Structures](https://github.com/farQtech/Data-Structures)
-4. 💪 Opened PR [#37](https://github.com/Py-Droid/Python-Thunder/pull/37) in [Py-Droid/Python-Thunder](https://github.com/Py-Droid/Python-Thunder)
-5. 💪 Opened PR [#9](https://github.com/romain325/DataStructuresAndAlgorithms/pull/9) in [romain325/DataStructuresAndAlgorithms](https://github.com/romain325/DataStructuresAndAlgorithms)
+1. ❗️ Opened issue [#24](https://github.com/amitsaini4556/DateYourEve/issues/24) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+2. 🗣 Commented on [#159](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp/issues/159) in [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp)
+3. 🗣 Commented on [#9](https://github.com/romain325/DataStructuresAndAlgorithms/issues/9) in [romain325/DataStructuresAndAlgorithms](https://github.com/romain325/DataStructuresAndAlgorithms)
+4. ❌ Reopened PR [#14](https://github.com/farQtech/Data-Structures/pull/14) in [farQtech/Data-Structures](https://github.com/farQtech/Data-Structures)
+5. 💪 Opened PR [#37](https://github.com/Py-Droid/Python-Thunder/pull/37) in [Py-Droid/Python-Thunder](https://github.com/Py-Droid/Python-Thunder)
 <!--END_SECTION:activity-->
 
 </details>
