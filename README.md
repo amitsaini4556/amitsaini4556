@@ -49,11 +49,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/amitsaini4556/DateYourEve/issues/23) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-2. 🎉 Merged PR [#28](https://github.com/amitsaini4556/DateYourEve/pull/28) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-3. ❗️ Opened issue [#27](https://github.com/amitsaini4556/DateYourEve/issues/27) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-4. ❗️ Opened issue [#26](https://github.com/amitsaini4556/DateYourEve/issues/26) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-5. 🎉 Merged PR [#25](https://github.com/amitsaini4556/DateYourEve/pull/25) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+1. 🎉 Merged PR [#29](https://github.com/amitsaini4556/DateYourEve/pull/29) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+2. ❗️ Closed issue [#7](https://github.com/amitsaini4556/DateYourEve/issues/7) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+3. 🗣 Commented on [#29](https://github.com/amitsaini4556/DateYourEve/issues/29) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+4. 🗣 Commented on [#29](https://github.com/amitsaini4556/DateYourEve/issues/29) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+5. ❗️ Closed issue [#23](https://github.com/amitsaini4556/DateYourEve/issues/23) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
 <!--END_SECTION:activity-->
 
 </details>
