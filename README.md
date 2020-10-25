@@ -49,11 +49,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/amitsaini4556/DateYourEve/issues/24) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-2. 🗣 Commented on [#159](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp/issues/159) in [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp)
-3. 🗣 Commented on [#9](https://github.com/romain325/DataStructuresAndAlgorithms/issues/9) in [romain325/DataStructuresAndAlgorithms](https://github.com/romain325/DataStructuresAndAlgorithms)
-4. ❌ Reopened PR [#14](https://github.com/farQtech/Data-Structures/pull/14) in [farQtech/Data-Structures](https://github.com/farQtech/Data-Structures)
-5. 💪 Opened PR [#37](https://github.com/Py-Droid/Python-Thunder/pull/37) in [Py-Droid/Python-Thunder](https://github.com/Py-Droid/Python-Thunder)
+1. 🎉 Merged PR [#25](https://github.com/amitsaini4556/DateYourEve/pull/25) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+2. ❗️ Closed issue [#24](https://github.com/amitsaini4556/DateYourEve/issues/24) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+3. 💪 Opened PR [#25](https://github.com/amitsaini4556/DateYourEve/pull/25) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+4. ❗️ Opened issue [#24](https://github.com/amitsaini4556/DateYourEve/issues/24) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+5. 🗣 Commented on [#159](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp/issues/159) in [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp)
 <!--END_SECTION:activity-->
 
 </details>
