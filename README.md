@@ -49,11 +49,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/amitsaini4556/DateYourEve/pull/35) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-2. 💪 Opened PR [#35](https://github.com/amitsaini4556/DateYourEve/pull/35) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-3. 🎉 Merged PR [#34](https://github.com/amitsaini4556/DateYourEve/pull/34) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-4. 💪 Opened PR [#34](https://github.com/amitsaini4556/DateYourEve/pull/34) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-5. 🎉 Merged PR [#33](https://github.com/amitsaini4556/DateYourEve/pull/33) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+1. 🎉 Merged PR [#36](https://github.com/amitsaini4556/DateYourEve/pull/36) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+2. 💪 Opened PR [#36](https://github.com/amitsaini4556/DateYourEve/pull/36) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+3. 🎉 Merged PR [#35](https://github.com/amitsaini4556/DateYourEve/pull/35) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+4. 💪 Opened PR [#35](https://github.com/amitsaini4556/DateYourEve/pull/35) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+5. 🎉 Merged PR [#34](https://github.com/amitsaini4556/DateYourEve/pull/34) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
 <!--END_SECTION:activity-->
 
 </details>
