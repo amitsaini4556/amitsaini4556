@@ -6,9 +6,9 @@
 
 ## I'm a Student, Developer !!
 - 🔭 I’m currently working on **Faculty Recruitment**
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Pentaho K.E.T.T.L Data Integration Tool
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop something new attractive App and Website
 - 📫 How to reach me **amitsaini2701@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1J7tVXiIybSBHvClZBqLp7Pdgqo4ZNtNT/view?usp=sharing)
