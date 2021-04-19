@@ -34,7 +34,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/amitsaini4556/DateYourEve/pull/55) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+1. ❗️ Opened issue [#2](https://github.com/amitsaini4556/FacultyRecruitment/issues/2) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
 2. 💪 Opened PR [#55](https://github.com/amitsaini4556/DateYourEve/pull/55) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
 3. 🎉 Merged PR [#54](https://github.com/amitsaini4556/DateYourEve/pull/54) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
 4. 💪 Opened PR [#54](https://github.com/amitsaini4556/DateYourEve/pull/54) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
