@@ -34,11 +34,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/amitsaini4556/FacultyRecruitment/issues/5) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
-2. 💪 Opened PR [#7](https://github.com/amitsaini4556/FacultyRecruitment/pull/7) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
-3. 🎉 Merged PR [#6](https://github.com/amitsaini4556/FacultyRecruitment/pull/6) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
-4. ❗️ Closed issue [#4](https://github.com/amitsaini4556/FacultyRecruitment/issues/4) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
-5. ❗️ Reopened issue [#5](https://github.com/amitsaini4556/FacultyRecruitment/issues/5) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
+1. 🎉 Merged PR [#9](https://github.com/amitsaini4556/FacultyRecruitment/pull/9) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
+2. ❗️ Closed issue [#8](https://github.com/amitsaini4556/FacultyRecruitment/issues/8) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
+3. ❗️ Closed issue [#5](https://github.com/amitsaini4556/FacultyRecruitment/issues/5) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
+4. 💪 Opened PR [#7](https://github.com/amitsaini4556/FacultyRecruitment/pull/7) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
+5. 🎉 Merged PR [#6](https://github.com/amitsaini4556/FacultyRecruitment/pull/6) in [amitsaini4556/FacultyRecruitment](https://github.com/amitsaini4556/FacultyRecruitment)
 <!--END_SECTION:activity-->
 
 </details>
